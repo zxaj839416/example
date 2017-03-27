@@ -1,0 +1,498 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "My Site",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 11,
+    "versionPublish": "3.12.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/48q58piczrq-143x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">順帆的小窩</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://red-turtle.jp\">OVERVIEW</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://www.ghibli.jp/works/\">Welcome</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/51080985-2000x1303.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "right",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; となりのトトロ",
+          "text": "《龍貓》（日語：となりのトトロ）是吉卜力工作室與德間書店於1988年推出的一部動畫電影，由宮崎駿所執導。電影描寫的是日本在經濟高度發展前存在的美麗自然，那個只有孩子才能看見的不可思議世界和豐富的想像，因為喚起觀眾的鄉愁而廣受大眾歡迎。《龍貓》在1988年4月16日於日本公映[1]，大約有80萬人次進入電影院觀看，同時上映的還有高畑勳執導的電影《螢火蟲之墓》。該作也是宮崎駿電影在中國公映的第二部作品。在作品中出現的「皋月和梅的家」，亦在2005年日本國際博覽會的瀨戶市會場中展出。<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://youtu.be/CFEeUPatslw\" data-toolbar=\"-mbrBtnMove\">音樂</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://www.ghibli.jp\" data-toolbar=\"-mbrBtnMove\">官網</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            ".mbr-section-lead": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/351427-1400x787.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<font color=\"#000000\">主要角色</font>",
+          "text": "<b>草壁皋月（草壁サツキ</b>）<br>故事的主角，為一名11歲就讀小學四年級的女孩。<br>性格堅毅有朝氣，因母親住院因素而在家中代理母職，負責打理大部分的家務。<br>名字的日語原名「サツキ」（Satsuki）是日語裡「皋月」（五月的別稱）的唸法。<br><b>草壁梅（草壁メイ）</b><br>皋月5歲的妹妹，也是故事的主角之一。性格活潑、善於觀察週遭有趣事物的小女生，也常因冒失的舉動讓姊姊皋月擔心<br>名字的日語原名「メイ」（Mei）為英語中「五月」（May）的音譯。<br><b>草壁達郎（草壁タツオ</b>）<br>皋月及梅的父親，是一間大學裡的考古學教授。<br>平時在家中忙於撰寫論文，也常與膝下兩名女兒一同玩鬧，性格溫柔的父親。<br><b>草壁靖子（草壁靖子）</b><br>是草壁皋月及草壁梅的母親，因為生病暫時住醫院。<br><b>龍貓（トトロ）</b><br>年齡為1,302歲[2]，身體呈灰綠色，為友善的森林守護者，主食為橡子。<br>外型是3隻龍貓中最大的一隻，至少有三公尺高；一般來說龍貓指的就是最大的這一隻。<br>在劇中被稱呼的名稱「トトロ」（Totoro）源自草壁梅問它名字的時候，它發出了類似「TO、TO、RO（意為好睏喔——）」的聲音，於是梅認為那就是它的名字。<br>早期設定的名稱為「ミミンズク」。<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://zh.wikipedia.org/wiki/龙猫\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_styles": {
+            "FONT": {
+              "text-align": "right"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-4",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/desert.jpg"
+            },
+            "video": {
+              "src": "https://youtu.be/YbDV_AvckIs",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": "on",
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "劇情介紹",
+          "text": "本片是對日本鄉村生活的迷人及節奏緩慢的描繪。故事背景設定於1958年（昭和33年），一位大學教授「草壁達郎」（草壁タツオ）和他的兩個女兒「皋月、梅」（サツキ、メイ）搬進一個森林附近的一所舊房子，而教授的妻子「草壁靖子」因染上了結核病，在附近的一所醫院養病中。<br>搬來新家的皋月和梅，都在家中及附近發現各種奇妙的東西，如家裡藏著像是小黑球模樣的「煤炭球」（ススワタリ）。而梅某一天也在外頭發現可以將外表變不見「小龍貓」（チビトト）、為了追趕它而被引領到樹洞裡發現森林的守護者「大龍貓」（トトロ）；並且在一個下雨的晚上，當皋月和梅在公車站牌邊等爸爸時，她們都遇到了用樹葉擋雨、先前梅在樹洞裡看到的大龍貓，不久「貓巴士」（ネコバス）來到，大龍貓給予皋月一包種子後登上貓巴士離去。<br>之後有一天傳從醫院得知媽媽的病情惡化，梅想把一個成熟的玉米帶給媽媽時、不小心迷了路，當眾人都遍尋不著後，皋月跑去找大龍貓幫忙。之後大龍貓召喚了貓巴士，在貓巴士的幫助下，梅被迅速找到了，並且接送皋月和梅穿過鄉間，到醫院探望她們的媽媽，最後草壁達郎在醫院中得知她們的媽媽病情好轉，不久就可以出院。<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-a",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "宮崎駿龍貓<div>周邊商品推薦</div>",
+          "caption": "<p>由日本動畫大師宮崎駿所建立的吉卜力動畫世界，其中龍貓最受大人小孩歡迎。與爸媽搬到鄉村生活的姊妹，在家中附近發現各種奇妙的東西，例如家裡藏著小黑球模樣的「煤炭球」、可將外表變不見「小龍貓」、樹洞裡發現森林的守護者「大龍貓」、下雨晚上乘坐「龍貓巴士」。推薦喜愛宮崎駿龍貓商品有宮崎駿龍貓床包、宮崎駿龍貓玩偶、宮崎駿龍貓手機殼。</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-5",
+          "_params": {
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-se-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "龍貓存錢筒&nbsp;",
+          "subtitle1": "690元",
+          "caption1": "尺寸：21公分  <br>日本Nibariki公司2012年新款，造型依據宮崎駿動漫系列中  <br>經典形象龍貓推出的存錢罐。  <br>別具風格的造型，獨特的設計，還原電影真實場景。龍貓迷不要錯過哦。  <br>絕對會成為你家中的最美的一道風景<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://www.rakuten.com.tw/shop/ulife2014/product/100000011924722/?s-id=Topics-totoro-1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/m18171766-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "龍貓疊疊樂/疊羅漢",
+          "subtitle2": "<font color=\"#000000\">1180</font>元",
+          "caption2": "產品內容:大龍貓x1、中龍貓x1、白色小龍貓x3、煤炭球x4、毛毛蟲x1、香菇x2、 <br>洞洞葉子x1、橡實x2、玉米棒x1 <br><br>材質:PVC樹脂 <br><br>外盒尺寸約14x20x6.3cm&nbsp;<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://www.rakuten.com.tw/shop/zakkafe/product/m18171766/?s-id=Topics-totoro-1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/m19429090-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "龍貓公車 絨毛娃娃",
+          "subtitle3": "1480元",
+          "caption3": "高度約12cm 寬度約35cm <br>日本原裝進口 <br>產地:中國<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://www.rakuten.com.tw/shop/zakkafe/product/m19429090/?s-id=Topics-totoro-1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/m19484328-600x801.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "龍貓 雪景 透光門簾/暖簾",
+          "subtitle4": "<font color=\"#000000\">1280元</font>",
+          "caption4": "設計:日本<br>產地:日本<br>材質:90%聚脂纖維、10%麻<br>尺寸:約85x150cm<br><span style=\"font-size: 1rem; line-height: 1.5;\">商品圖檔顏色因電腦螢幕設定差異會略有不同，以實際商品顏色為準。</span><br>",
+          "button4": "<a data-app-btn=\"true\" href=\"http://www.rakuten.com.tw/shop/zakkafe/product/m19484328/?s-id=Topics-totoro-2\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "text-align": "left"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-7",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "1 Chome-1-83 Shimorenjaku, Mitaka, Tokyo 181-0013日本",
+              "placeId": "ChIJ-3ME5TTuGGARVFydYivmuZw",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>1 Chome-1-83 Shimorenjaku, Mitaka, Tokyo 181-0013日本<br><br><br>\n<strong>Contacts</strong><br>电话：+81 570-055-777<br>营业时间： 今日营业 · 10:00–18:00<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://www.ghibli-museum.jp/library/\">ジブリ美術館ライブラリー</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"http://www.lawson.co.jp/ghibli/\">スタジオジブリポータル（ローソン）</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"http://c.tkma.co.jp/tjc/ghibli_records/\">スタジオジブリレコーズ（徳間ジャパンコミュニケーションズ）</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-8",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        }
+      ]
+    }
+  }
+}
